@@ -38,7 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('https://i.imgur.com/y00QBzv.gif')";
+  document.body.style.backgroundImage = "url('https://i.imgur.com/MNfzmvS.gif')";
 
   var audio = new Audio('brainpower.mp3');
   audio.play();
